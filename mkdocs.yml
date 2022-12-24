@@ -13,6 +13,7 @@ theme:
 nav:
     - Opic: opic.md    
     - Opic2: opic2.md    
+    - Opic3: opic3.md    
     # - Technologies:
     #       - "Section1": "guide/index3.md"
     #       - "Section2": "guide/index4.md"
