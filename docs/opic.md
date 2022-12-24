@@ -9,8 +9,10 @@ I want AL of Opic...
         
         문장을 확인해보십시오. 이거 정확한 문법이랍니다.
         
-        ![sample_001](./assets/opic/sample_001.png)
-        ![sample_002](./assets/opic/sample_002.png)
+        ![](./assets/opic/sample_001.png)
+        ![](./assets/opic/sample_002.png)
+        ![](./assets/opic/sample_003.png)
+        ![](./assets/opic/sample_004.png)
         
 
     === "Hobby"
