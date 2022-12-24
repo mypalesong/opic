@@ -14,7 +14,6 @@ I want AL of Opic...
         ![](./assets/opic/sample_003.png)
         ![](./assets/opic/sample_004.png)
         
-
     === "Hobby"
 
         To be updated...
