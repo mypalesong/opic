@@ -9,7 +9,8 @@ I want AL of Opic...
         
         문장을 확인해보십시오. 이거 정확한 문법이랍니다.
         
-        ![Creye](./assets/docs.png)
+        ![sample_001](./assets/opic/sample_001.png)
+        ![sample_002](./assets/opic/sample_002.png)
         
 
     === "Hobby"
