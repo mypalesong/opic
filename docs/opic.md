@@ -13,7 +13,9 @@ I want AL of Opic...
         ![](./assets/opic/sample_002.png)
         ![](./assets/opic/sample_003.png)
         ![](./assets/opic/sample_004.png)
-        
+
+        Thank you for your interest!
+
     === "Hobby"
 
         To be updated...
